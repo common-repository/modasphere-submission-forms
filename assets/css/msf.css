@@ -1,0 +1,29 @@
+table .msf-input-text-readonly, table .msf-input-text-readonly:focus,
+table .msf-label-text-readonly, table .msf-label-text-readonly:focus{
+    border: 0;
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.msf-admin .card{
+    height: 99%;
+}
+
+.wp-admin .msf-field-select {
+    height: calc(1.5em + .75rem + 2px)
+}
+
+.msf-add-field {
+    width: 4.25em;
+}
+.submission-form .dropdown-toggle{
+    background: white;
+    border-color: #e8e8e8;
+}
+
+.field-name{
+    width: 200px;
+}
+.wp-editor-wrap{
+    margin-top: -2rem!important;
+}
